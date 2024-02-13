@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi! 👋🏾 I'm Mathenda Maphasha
+
+## 💫 About Me:
 🔭 I’m currently working on integrating machine learning into android development for the ease of cross development between swift and kotlin while optimizing performance to more closely match native performance<br>👯 I’m looking to collaborate on Integrating Deep neural networks into app development<br>🌱 I’m currently learning app development using native kotlin, quasar and flutter<br>💬 Ask me about my love of travelling<br>⚡ Fun fact Photography was a large part of my interest in the field of computer science
 
 
