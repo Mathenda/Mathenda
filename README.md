@@ -3,7 +3,9 @@
 ## 💫 About Me:
 🔭 I’m currently working on integrating machine learning into android development for the ease of cross development between swift and kotlin while optimizing performance to more closely match native performance<br>👯 I’m looking to collaborate on Integrating Deep neural networks into app development<br>🌱 I’m currently learning app development using native kotlin, quasar and flutter<br>💬 Ask me about my love of travelling<br>⚡ Fun fact Photography was a large part of my interest in the field of computer science
 
-
+## 📄 MY CV:
+[![CV](https://img.shields.io/badge/Curriculum-Vitae-blue?style=for-the-badge)](https://drive.google.com/file/d/1XPP1_Pk_nNGSd54VEd9Z3JVwAsbU_Tng/view?usp=drive_link)<br>
+[![Email](https://img.shields.io/badge/Contact_Me-u20477181@tuks.co.za-blue?style=for-the-badge&logo=gmail)](mailto:u20477181@tuks.co.za)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/335694466998599681) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](<https://facebook.com/Mathenda Maphasha>) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mathenda_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mxthee2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mathenda1) 
 
